@@ -1,0 +1,16 @@
+project_id = "bpbzqvghfuspsdsjdoxc"
+
+[functions.bootstrap-admin]
+verify_jwt = false
+
+[functions.access-request]
+verify_jwt = false
+
+[functions.reset-admin-password]
+verify_jwt = false
+
+[functions.create-test-manager]
+verify_jwt = false
+
+[functions.whatsapp-webhook]
+verify_jwt = false
